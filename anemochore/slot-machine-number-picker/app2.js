@@ -1,7 +1,7 @@
 (() => {
   //original code: https://codepen.io/AdrianSandu/pen/MyBQYz
 
-  const FORMAT = (new URLSearchParams(window.location.search)).get('FORMAT') || '000-0000-0000';
+  const FORMAT = (new URLSearchParams(window.location.search)).get('format') || '000-0000-0000';
   const RING_NUMBER = FORMAT.length;
 
   //slots 
