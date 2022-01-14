@@ -1,6 +1,6 @@
 # werid phone number picker
 
->> If you want English, [click here](#English)
+> If you want English, [click here](#English)
 # Korean
 ## 이상한 휴대폰 번호 선택기!
 해당 레포는 괴기한 폰 번호 선택기를 모아놓은 레포입니다.
