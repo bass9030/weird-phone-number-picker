@@ -1,4 +1,4 @@
-# werid phone number picker
+# weird phone number picker
 
 > If you want English, [click here](#English)
 # Korean
@@ -28,8 +28,8 @@
 
 
 # English
-## Werid phone number picker
-This repository is collect the 'werid phone number picker'.
+## Weird phone number picker
+This repository is collection the 'weird phone number picker'.
 
 ## Contribute
 This repository can upload your own phone number picker.
