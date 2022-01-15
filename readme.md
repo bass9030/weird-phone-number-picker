@@ -18,6 +18,9 @@
 └ (그리고.. 그냥 당신의 폰 번호 선택기를 만드세요!)
 ```
 
+### 기여자 목록
+* anemochore - 슬롯머신 번호 선택기
+
 ## Pull request가 거절당했어요
 아래 경우에 해당되는지 확인해보세요.
 만약 아니라면 제 실수일수도 있으니 다시 시도해보세요.
@@ -35,7 +38,7 @@ This repository is collection the 'weird phone number picker'.
 This repository can upload your own phone number picker.
 Make phone number picker to any language/way and create pull request.
 **Make sure to keep the folder structure below when create a pull request. Pull request may be rejected if you do not comply.**
-**Pull request will marge to main branch in 1 day ~ 1 week**
+**Pull request will merge to main branch in 1 day ~ 1 week**
 
 ### Folder Tree
 ```
@@ -43,6 +46,9 @@ Make phone number picker to any language/way and create pull request.
 └ .gitignore(optional)
 └ (And.. just make your phone number picker!)
 ```
+
+### Contributor List
+* anemochore - Slot machine number picker
 
 ## My pull request is refuse
 Please check if this applies to the following cases.
